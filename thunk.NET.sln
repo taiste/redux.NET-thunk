@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thunk.NET", "thunk.NET\thunk.NET.csproj", "{02DF7AD2-ED54-46CA-A28E-779986F3ADDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thunk.NET.Tests", "thunk.NET.Tests\thunk.NET.Tests.csproj", "{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{02DF7AD2-ED54-46CA-A28E-779986F3ADDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02DF7AD2-ED54-46CA-A28E-779986F3ADDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02DF7AD2-ED54-46CA-A28E-779986F3ADDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
