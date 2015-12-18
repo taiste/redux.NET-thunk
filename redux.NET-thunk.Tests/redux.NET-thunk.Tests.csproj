@@ -58,9 +58,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\thunk.NET\thunk.NET.csproj">
+    <ProjectReference Include="..\redux.NET-thunk\redux.NET-thunk.csproj">
       <Project>{02DF7AD2-ED54-46CA-A28E-779986F3ADDD}</Project>
-      <Name>thunk.NET</Name>
+      <Name>redux.NET-thunk</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
