@@ -1,7 +1,7 @@
 ﻿using System;
 using Redux;
 
-namespace Reduxer.Core
+namespace Taiste.Redux
 {
     public static class Middleware
     {
