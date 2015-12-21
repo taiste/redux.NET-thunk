@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>redux.NET-thunk</id>
+    <version>0.1.0</version>
+    <title>redux.NET-thunk</title>
+    <authors>Taiste</authors>
+    <owners>Taiste</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/taiste/redux.NET-thunk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Thunk middleware for redux.NET</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Redux.NET Thunk Middleware</tags>
+    <dependencies>
+     <dependency id="redux.NET" version="0.3.0" />
+    </dependencies>
+  </metadata>
+ <files>
+  <file src="bin/Release/thunk.NET.dll" target="lib\portable-net45+netcore45" />
+ </files>
+</package>

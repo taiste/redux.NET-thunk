@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("Taiste")]
 [assembly: AssemblyProduct ("")]
-[assembly: AssemblyCopyright ("Taiste Oy")]
+[assembly: AssemblyCopyright ("")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 
