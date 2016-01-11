@@ -3,18 +3,18 @@
   <metadata>
     <id>redux.NET-thunk</id>
     <version>0.1.0</version>
-    <title>redux.NET-thunk</title>
+    <title>Redux.NET-thunk</title>
     <authors>Taiste</authors>
     <owners>Taiste</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <licenseUrl>https://github.com/taiste/redux.NET-thunk/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/taiste/redux.NET-thunk</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Thunk middleware for redux.NET</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2015</copyright>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016 Taiste Oy</copyright>
     <tags>Redux.NET Thunk Middleware</tags>
     <dependencies>
-     <dependency id="redux.NET" version="0.3.0" />
+     <dependency id="Redux.NET" version="0.3.0" />
     </dependencies>
   </metadata>
  <files>
