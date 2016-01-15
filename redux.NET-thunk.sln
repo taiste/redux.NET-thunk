@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redux.NET-thunk", "redux.NE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redux.NET-thunk.Tests", "redux.NET-thunk.Tests\redux.NET-thunk.Tests.csproj", "{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redux.NET-thunk.AndroidExample", "redux.NET-thunk.AndroidExample\redux.NET-thunk.AndroidExample.csproj", "{FA88ACDB-66D0-4EB9-B4C7-36133E4A6B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5FE8F8A-EED1-4A69-A17C-1C4EF6ECDF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA88ACDB-66D0-4EB9-B4C7-36133E4A6B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA88ACDB-66D0-4EB9-B4C7-36133E4A6B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA88ACDB-66D0-4EB9-B4C7-36133E4A6B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA88ACDB-66D0-4EB9-B4C7-36133E4A6B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
